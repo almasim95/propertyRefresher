@@ -1,0 +1,1 @@
+java -jar propertyRefresher-0.0.1-SNAPSHOT.jar
